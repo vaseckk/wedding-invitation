@@ -2,14 +2,18 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
-  <base href="/">
+  <!-- Убрать base href -->
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0" aria-description="самые дешёвые грузоперевозки">
   <title>Пригласительное на свадьбу</title>
+
+  <!-- Использовать относительные пути без точки -->
   <link rel="stylesheet" href="css/main.css">
   <link rel="icon" href="img/favicon.png" type="image/x-icon">
-  <script type="module" crossorigin src="/assets/index-0af3bfd8.js"></script>
-  <link rel="stylesheet" href="/assets/index-8ceb5532.css">
+
+  <!-- Скрипты должны грузиться из assets -->
+  <script type="module" crossorigin src="assets/index-0af3bfd8.js"></script>
+  <link rel="stylesheet" href="assets/index-8ceb5532.css">
 </head>
 
 <body>
@@ -18,6 +22,6 @@
   </div>
   <noscript>You need to enable JavaScript to run this app.</noscript>
   <div id="root"></div>
-  
+
 </body>
 </html>
