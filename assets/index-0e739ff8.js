@@ -76,7 +76,7 @@ Error generating stack: `+o.message+`
 `,"чтобы успеть сделать радостные",`
 `,"и тёплые фотографии на фоне",`
 `,"красивой природы.",`
-`]})]}),_.jsxs("div",{className:"invitation-letter__time-item",children:[_.jsx("div",{className:"invitation-letter__time__title",children:"Дата и время"}),_.jsxs("div",{className:"invitation-letter__time-description",children:["Субота, 25 июля 2026 года",`
+`]})]}),_.jsxs("div",{className:"invitation-letter__time-item",children:[_.jsx("div",{className:"invitation-letter__time__title",children:"Дата и время"}),_.jsxs("div",{className:"invitation-letter__time-description",children:["Суббота, 25 июля 2026 года",`
 `,`
 `,"Сбор в 15:45",`
 `,"Начало торжества в 16:00",`
